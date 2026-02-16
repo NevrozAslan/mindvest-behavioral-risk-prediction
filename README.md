@@ -59,9 +59,9 @@ The dataset contains simulated behavioral features such as:
 
 ## Project Structure
 
-- `app.py` — Main application containing ML pipeline and Streamlit demo
-- `mindvest_demo.csv` — Synthetic behavioral dataset used for the demo
-- `MindVest_sunum.pdf` — Project presentation
+- `src/app.py` — Main application containing ML pipeline and Streamlit demo
+- `data/mindvest_demo.csv` — Synthetic behavioral dataset used for the demo
+- `docs/MindVest_sunum.pdf` — Project presentation
 
 ---
 
